@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/weather/static/css/main.db09e6a4.css",
-    "main.js": "/weather/static/js/main.0b4c4963.js",
-    "static/media/bg.jpg": "/weather/static/media/bg.bbaf9cfc7c519e342e9e.jpg",
-    "index.html": "/weather/index.html",
-    "main.db09e6a4.css.map": "/weather/static/css/main.db09e6a4.css.map",
-    "main.0b4c4963.js.map": "/weather/static/js/main.0b4c4963.js.map"
+    "main.css": "/bmi_calculator/static/css/main.30dacd32.css",
+    "main.js": "/bmi_calculator/static/js/main.2d826442.js",
+    "static/media/bg.avif": "/bmi_calculator/static/media/bg.54461934e46dedb952d3.avif",
+    "index.html": "/bmi_calculator/index.html",
+    "main.30dacd32.css.map": "/bmi_calculator/static/css/main.30dacd32.css.map",
+    "main.2d826442.js.map": "/bmi_calculator/static/js/main.2d826442.js.map"
   },
   "entrypoints": [
-    "static/css/main.db09e6a4.css",
-    "static/js/main.0b4c4963.js"
+    "static/css/main.30dacd32.css",
+    "static/js/main.2d826442.js"
   ]
 }
